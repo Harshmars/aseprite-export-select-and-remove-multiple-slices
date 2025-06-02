@@ -3,7 +3,7 @@
 A collection of Aseprite scripts for efficient slice management.
 
 ## Installation
-1. Download the latest `harsh-plug-ins.aseprite-extension`. 
+1. Download the latest by clicking `harsh-plug-ins.aseprite-extension`and click view raw. 
 ![how to download](https://github.com/Harshmars/aseprite-export-select-and-remove-multiple-slices/blob/main/gifs/How%20to%20download.gif)
 
 2. Open Aseprite, go to `Edit > Preferences > Extensions`.
