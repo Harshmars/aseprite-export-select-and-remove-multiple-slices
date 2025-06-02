@@ -12,7 +12,7 @@ A collection of Aseprite scripts for efficient slice management.
 3. Click `Add Extension`, select the downloaded file, and restart Aseprite.
 
 4. Access the scripts under `File > Harsh Plug-ins`.
-![]()
+![feature 1](https://github.com/Harshmars/aseprite-export-select-and-remove-multiple-slices/blob/50cce940be0300b31db9c33afb93bd2323d0464b/gifs/export%20slice.gif)
 
 ## Features
 - **Export Slices to Images**: Export all slices as individual images with custom naming options.  
