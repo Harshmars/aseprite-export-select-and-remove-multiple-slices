@@ -12,6 +12,7 @@ A collection of Aseprite scripts for efficient slice management.
 3. Click `Add Extension`, select the downloaded file, and restart Aseprite.
 
 4. Access the scripts under `File > Harsh Plug-ins`.
+![]()
 
 ## Features
 - **Export Slices to Images**: Export all slices as individual images with custom naming options.  
