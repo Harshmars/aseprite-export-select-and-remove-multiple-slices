@@ -1,4 +1,4 @@
-#Harsh Plug-ins for Aseprite
+# Harsh Plug-ins for Aseprite
 A collection of Aseprite scripts for efficient slice management.
 Installation
 
