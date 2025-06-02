@@ -19,7 +19,7 @@ A collection of Aseprite scripts for efficient slice management.
   ![Auto-Slice Selection](https://github.com/Harshmars/aseprite-export-select-and-remove-multiple-slices/blob/main/gifs/make%20slices.gif)
 
 - **Remove Slices**: Bulk remove slices with options like remove all, selective removal, by name pattern, or by size.  
-  ![Remove Slices](https://github.com/your-username/harsh-plug-ins/raw/main/gifs/remove-slices.gif)
+  ![Remove Slices](https://github.com/Harshmars/aseprite-export-select-and-remove-multiple-slices/blob/main/gifs/feature%203.gif)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
