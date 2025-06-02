@@ -3,7 +3,7 @@
 A collection of Aseprite scripts for efficient slice management.
 
 ## Installation
-1. Download the latest `harsh-plug-ins.aseprite-extension` file from the [Releases](https://github.com/your-username/harsh-plug-ins/releases) page.
+1. Download the latest `harsh-plug-ins.aseprite-extension`.
 2. Open Aseprite, go to `Edit > Preferences > Extensions`.
 3. Click `Add Extension`, select the downloaded file, and restart Aseprite.
 4. Access the scripts under `File > Harsh Plug-ins`.
